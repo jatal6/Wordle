@@ -19,8 +19,8 @@ The following **optional** features are implemented:
 
 - [ ] User can toggle betweeen different word lists
 - [ ] User can see the 'correctness' of their guess through colors on the word 
-- [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [x] User sees a visual change after guessing the correct word
+- [x] User can tap a 'Reset' button to get a new word and clear previous guesses
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
@@ -32,10 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/DB0FKPr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with OBS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
